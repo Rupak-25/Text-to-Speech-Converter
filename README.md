@@ -1,4 +1,4 @@
-# Javascript-Project-01
+# Text-to-Speech-Converter
 This is a demo project by using javascript to see some hands-on experience of using javascript. 
 So, in this project I created a text-to-speech converter.
 Below is the video for showcasing the final product of the project.
